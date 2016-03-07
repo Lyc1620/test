@@ -20,6 +20,9 @@
     
     NSLog(@"hahaha");
     
+    
+    NSLog(@"伟哥是猪！！！");
+    
 }
 
 - (void)didReceiveMemoryWarning {
